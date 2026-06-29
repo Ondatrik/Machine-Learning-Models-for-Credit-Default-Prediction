@@ -1,6 +1,6 @@
 # Machine Learning for Credit Default Prediction
 
-This project applies machine learning and statistical learning techniques, including Logistic Regression, Decision Trees, Random Forests, XGBoost and Feedforward Neural Networks, to predict credit defaults using historical loan data from the Indian online lending platform LoanTap. The repository demonstrates an end-to-end workflow for a binary classification problem, including data cleaning, exploratory data analysis, feature engineering, model development, hyperparameter tuning and evaluation.
+This project applies machine learning and statistical learning techniques, including Logistic Regression, Decision Trees, Random Forests, XGBoost and Feedforward Neural Networks, to predict credit defaults using historical loan data from the Indian online lending platform LoanTap. The project demonstrates an end-to-end workflow for a binary classification problem, including data cleaning, exploratory data analysis, feature engineering, model development, hyperparameter tuning and evaluation.
 
 ## Dataset
 
